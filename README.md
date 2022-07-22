@@ -34,7 +34,7 @@ CONFIGURATIONS:
 	python code of the base is placed on the "Receivers" folder
 	that is named "receiver_base.py".
 
-NOTE: This project uses our own personal-created database, if you want
+Note: This project uses our own personal-created database, if you want
 	to use yours, just modify the connectors on the python files. The table of the database consists of a timestamp, and
 	an integer column. The integer column is where the sender
 	number of this project will be placed, whether it is a 
